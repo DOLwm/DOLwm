@@ -1,11 +1,4 @@
-I have create ST1.
-I will commit this change to TB2
-I will push to TB2
+*in master*
 
-
-
-I have pushed to TB2.
-I am now going to stash
-I will co to master
-I will save something to stashtest in master and see how it goes.
-
+test st2
+commit and push and co to tb2 before pop
