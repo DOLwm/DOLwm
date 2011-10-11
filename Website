@@ -17,3 +17,11 @@ asopdkspoadksaopdksapodkosadopsakdposakaposkdospkposk
 =======
 asopdkspoadksaopdksapodkosadopsakdposakaposkdospkposk
 >>>>>>> Stashed changes
+
+
+
+
+---- I have created a new file in testbranch2 and have stashed.
+     Now I have changed to master branch and am editing website.txt
+     I will save and commit and push and try to switch back to the stash.
+----
